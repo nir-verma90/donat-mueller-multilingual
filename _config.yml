@@ -15,7 +15,7 @@ description:
   de: Écrivez une super description de votre nouveau site ici. Vous pouvez modifier cette ligne dans _config.yml. Elle apparaîtra dans la balise meta description (pour les résultats sur Google) et dans le fil RSS feed.xml.
  Readme:
   en:
-  de: accueil.html
+  de: readme_en.md
 baseurl: "/donat-mueller-multilingual" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 # Build settings
