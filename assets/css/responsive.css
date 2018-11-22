@@ -38,8 +38,10 @@
 .main-content h1 {font-size: 20px;margin-bottom: 5px;line-height: 23px;}  
 .main-content p {font-size: 14px;}  
 .main-content img {height: 220px;}  
-.project-name {font-size: 23px;line-height: 27px;}
+.project-name {font-size: 23px;line-height: 27px;padding-top: 50px;}
 .project-tagline {font-size: 15px;}
+.page-header {padding: .5rem 2rem 2rem;}
+
 }
 
 @media (max-width: 439px){  
