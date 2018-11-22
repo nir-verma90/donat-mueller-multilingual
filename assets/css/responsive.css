@@ -26,7 +26,8 @@
 .main-content table th {font-size: 13px;}  
 .main-content table th, .main-content table td{padding: 5px;}  
 .main-content .tab-multi-img td img {width: 150px;height: 95px;}  
-.main-content .tab-grafity-img tbody img {height: 240px;}   
+.main-content .tab-grafity-img tbody img {height: 240px;}  
+#headlang a{padding: 1px 10px;display: inline;font-size: 13px;}
 }
 
 @media (max-width: 639px){
