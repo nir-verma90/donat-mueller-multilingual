@@ -14,9 +14,10 @@
 
 }
 #headlang {
-
     display: inline-block;
     float: right;
     vertical-align: top;
-
 }
+.page-header {padding: 1rem 6rem 5rem;}
+
+.project-name {padding-top: 4rem;}
