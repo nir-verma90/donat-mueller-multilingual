@@ -1,5 +1,5 @@
 <header class="page-header" role="banner">
-      <div class="wrapper" style="text-align: right; line-height: 2em">
+      <div id="headlang" class="wrapper" style="text-align: right; line-height: 2em">
             {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
                 {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
             {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
