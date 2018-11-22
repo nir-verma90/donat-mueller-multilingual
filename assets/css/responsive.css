@@ -44,7 +44,7 @@
 
 }
 
-@media (max-width: 439px){  
+@media (max-width: 479px){  
 .main-content img {height: 150px;}  
 .main-content .tab-multi-img td img {width: 80px;height: 65px;}  
  .main-content table th {font-size: 12px;}  
@@ -53,4 +53,5 @@
  .main-content .tab-grafity-img tbody img {height: 120px;}
  .site-footer {padding-top: 20px;margin-top: 20px;}  
  .main-content .tab-multi-img th:nth-child(3) {width: 75px;}
+ .page-header {padding: .5rem 1rem 2rem;}
 }
