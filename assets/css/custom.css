@@ -1,6 +1,4 @@
-
 #headlang a {
-
     padding: 1px 15px;
     display: inline-block;
     color: rgba(255,255,255,0.7);
@@ -11,13 +9,7 @@
     border-radius: 0.3rem;
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     text-decoration: none;
-
 }
-#headlang {
-    display: inline-block;
-    float: right;
-    vertical-align: top;
-}
+#headlang {display: inline-block;float: right;vertical-align: top;}
 .page-header {padding: 1rem 6rem 5rem;}
-
 .project-name {padding-top: 4rem;}
