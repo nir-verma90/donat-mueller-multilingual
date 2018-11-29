@@ -8,7 +8,7 @@ lang: en
 
 <div class="page-content">
     <div class="wrapper">
-         <main id="content" class="main-content" role="main">
+         <div id="pagecontent" class="main-sec">
               <div class="blog">
                   <ul class="post-list">
                      {% assign posts=site.posts | where:"lang", page.lang %}
@@ -21,7 +21,7 @@ lang: en
                  </ul>
                    <p class="rss-subscribe">subscribe <a href="{{ '/feed.xml' | prepend: site.baseurl }}">via RSS</a></p> 
             </div>
-        </main>
+        </div>
     </div>
  </div>
       
