@@ -61,4 +61,5 @@
  .main-content .tab-multi-img th:nth-child(3) {width: 75px;}
  .page-header {padding: .5rem 1rem 2rem;}
  .post-title {font-size: 28px;}
+ .blog .rss-subscribe {font-size: 14px;width: 160px;height: 35px;line-height: 35px;margin: 35px 0 0;}
 }
