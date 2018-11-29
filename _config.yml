@@ -7,4 +7,7 @@ description:
 index:
   de: 
   en: en.html
+feed:
+  en: /feed.xml
+  de: /futter.xml
 theme: jekyll-theme-cayman
