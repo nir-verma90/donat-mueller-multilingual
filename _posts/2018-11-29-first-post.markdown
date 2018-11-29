@@ -6,4 +6,4 @@ date: 2018-11-29
 categories: jekyll update
 lang: en
 ---
-This is first post of site...
+<div class="post-inner-main"><p>This is first post of site...</p></div>
