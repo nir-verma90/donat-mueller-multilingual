@@ -16,12 +16,12 @@
 #pagecontent {width: 100%; max-width: 1024px;margin: 0 auto; padding: 0 15px;display: block;}
 .post-title {color: #159957;text-transform: capitalize; margin: auto;}
 .post-list {padding: 0;margin: 0;}
-.post-list li {list-style: none;}
+.post-list li {list-style: none;border-bottom: 1px dashed #AAA;padding-bottom: 15px;margin-bottom: 20px;}
 .post-list li h2 {margin: 0;font-size: 25px;padding-bottom: 15px;}
 .post-list li h2 .post-link {text-decoration: none;color:#656565;}
 .post-list li h2 .post-link:hover {color: #15618f;}
 .post-list li .post-meta {font-size: 14px;}
-.blog {border-bottom: 1px dashed #AAA;padding: 25px 0 10px;}
+.blog {padding: 25px 0 10px;}
 .blog .rss-subscribe {font-size: 15px;}
 .crumb_text {background: #ebebeb;margin: 0 0 15px;padding: 15px 0;}
 .crumb_text {background: #ebebeb;margin: 0;padding: 15px 0;text-align: left;}
