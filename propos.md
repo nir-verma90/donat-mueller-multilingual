@@ -1,6 +1,7 @@
 ---
 layout: page
 title: propos
+permalink: /propos/
 ref: blog
 lang: de
 ---
