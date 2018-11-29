@@ -1,7 +1,7 @@
 ---
 layout: page
-title: news
-permalink: /news/
+title: nachrichten
+permalink: /nachrichten/
 ref: blog
 lang: de
 ---
