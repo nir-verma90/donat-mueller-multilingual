@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "zweiter post der website !"
-ref: welcome
+ref: secondpost
 date: 2018-11-29 06:08:44 +0100
 categories: jekyll update
 lang: de
