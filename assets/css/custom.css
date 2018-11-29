@@ -15,3 +15,6 @@
 .project-name {padding-top: 4rem;}
 #pagecontent {width: 100%; max-width: 1024px;margin: 0 auto; padding: 0 15px;}
 .post-title {color: #159957;text-transform: capitalize; margin: auto;}
+.post-list {padding: 0;margin: 0;}
+.post-list li {list-style: none;}
+.post-list li h2 {margin: 0;font-size: 25px;}
