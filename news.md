@@ -1,7 +1,7 @@
 ---
 layout: page
-title: propos
-permalink: /propos/
+title: news
+permalink: /news/
 ref: blog
 lang: de
 ---
