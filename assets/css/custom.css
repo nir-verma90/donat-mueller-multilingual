@@ -23,7 +23,7 @@
 .post-list li .post-meta {font-size: 14px;}
 .blog {padding: 50px 0 10px;}
 .blog .rss-subscribe {font-size: 15px;border: 1px solid #ddd;width: 175px;height: 45px;border-radius: 0.3rem;padding: 0 10px;
-    line-height: 45px}
+    line-height: 45px;margin: 35px 0 0;}
 .rss-subscribe a {text-decoration: none; color: #159957;}
 .crumb_text {background: #ebebeb;margin: 0 0 15px;padding: 15px 0;}
 .crumb_text a {color: #156888;text-decoration: none;font-size: 18px;font-weight: 700;}
