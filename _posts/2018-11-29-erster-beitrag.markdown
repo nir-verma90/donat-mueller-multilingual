@@ -6,4 +6,5 @@ date:   2018-11-29
 categories: jekyll update
 lang: de
 ---
-Dies ist der erste Beitrag der Website..
+
+<div class="post-inner-main"><p>Dies ist der erste Beitrag der Website..</p></div>
