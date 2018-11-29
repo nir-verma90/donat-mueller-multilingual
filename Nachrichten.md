@@ -9,7 +9,7 @@ lang: de
 <div class="page-content">
     <div class="wrapper">
          <div id="pagecontent" class="main-sec">
-              <div class="home">
+              <div class="blog">
                  <ul class="post-list">
                    {% assign posts=site.posts | where:"lang", page.lang %}
                       {% for post in posts %}
