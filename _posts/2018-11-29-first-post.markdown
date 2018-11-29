@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-ref: welcome
+title:  "First Post of site !"
+ref: blog
 date: 2018-11-29 
 categories: jekyll update
 lang: en
 ---
-This is first post 
+This is first post of site...
