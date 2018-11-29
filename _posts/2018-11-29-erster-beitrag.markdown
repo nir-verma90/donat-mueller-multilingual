@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "erster post der website !"
-ref: blog
+ref: welcome
 date:   2018-11-29
 categories: jekyll update
 lang: de
